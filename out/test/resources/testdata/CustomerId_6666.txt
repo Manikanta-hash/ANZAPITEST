@@ -1,0 +1,11 @@
+{
+    "status": "success",
+    "code": 0,
+    "message": "",
+    "data": {
+        "customerID": "6666",
+        "email": "testerF@abc.com",
+        "first_name": "testerFFirst",
+        "last_name": "testerFLast"
+    }
+}
